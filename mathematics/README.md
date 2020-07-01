@@ -46,3 +46,5 @@
 * [Elements of Algebraic Topology: Sheaves](https://www.math.upenn.edu/~ghrist/EAT/EATchapter9.pdf) by Ghrist
 
   Seminal writing on topological structures, from one most lauded books 'Elements of Algebraic Topology'
+ ### Misc
+ - [FINITE TYPE MODULES AND BETHE ANSATZ EQUATIONS](https://arxiv.org/pdf/1609.05724.pdf)
